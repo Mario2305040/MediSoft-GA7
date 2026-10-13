@@ -1,0 +1,3 @@
+Repositorio remoto: pendiente de publicar en GitHub o GitLab.
+
+El proyecto incluye un repositorio Git local con su commit inicial. Sustituir esta línea por la URL pública una vez creado el repositorio remoto.
